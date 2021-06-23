@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="en" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://en.wikisource.org/wiki/San_Tzu_Ching</dc:identifier>
+				    <meta property="dcterms:modified">2021-06-23T05:34:10Z</meta>
+				    <dc:language>en</dc:language>
+				    <dc:title id="meta-title">San Tzu Ching (三字經）</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://en.wikisource.org/wiki/San_Tzu_Ching</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><dc:creator id="meta-aut">Wang Yinglin</dc:creator>
+					       <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta><dc:contributor id="meta-trl">Herbert Allen Giles</dc:contributor>
+					       <meta refines="#meta-trl" property="role" scheme="marc:relators">trl</meta><dc:date>1900</dc:date><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png" /><item id="c0_San_Tzu_Ching" href="c0_San_Tzu_Ching.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_San_Tzu_Ching_Preface" href="c1_San_Tzu_Ching_Preface.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_San_Tzu_Ching_San_Tzu_Ching" href="c2_San_Tzu_Ching_San_Tzu_Ching.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_San_Tzu_Ching_San_Tzu_Ching_2" href="c2_San_Tzu_Ching_San_Tzu_Ching_2.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_San_Tzu_Ching_San_Tzu_Ching_3" href="c2_San_Tzu_Ching_San_Tzu_Ching_3.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_San_Tzu_Ching_San_Tzu_Ching_4" href="c2_San_Tzu_Ching_San_Tzu_Ching_4.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_San_Tzu_Ching_Appendix_1" href="c3_San_Tzu_Ching_Appendix_1.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_San_Tzu_Ching_Appendix_2" href="c4_San_Tzu_Ching_Appendix_2.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_San_Tzu_Ching_Appendix_3" href="c5_San_Tzu_Ching_Appendix_3.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_San_Tzu_Ching_Appendix_4" href="c6_San_Tzu_Ching_Appendix_4.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_San_Tzu_Ching_Appendix_5" href="c7_San_Tzu_Ching_Appendix_5.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_San_Tzu_Ching_Appendix_6" href="c8_San_Tzu_Ching_Appendix_6.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_Copyright.svg_20px_Copyright.svg.png" href="images/c9_Copyright.svg_20px_Copyright.svg.png" media-type="image/png" />
+<item id="c10_PD_icon.svg_20px_PD_icon.svg.png" href="images/c10_PD_icon.svg_20px_PD_icon.svg.png" media-type="image/png" />
+<item id="c11_PD_icon.svg_48px_PD_icon.svg.png" href="images/c11_PD_icon.svg_48px_PD_icon.svg.png" media-type="image/png" />
+<item id="c12_San_Tzu_Ching___Title_page_divider.png_200px_San_Tzu_Ching___Title_page_divider.png" href="images/c12_San_Tzu_Ching___Title_page_divider.png_200px_San_Tzu_Ching___Title_page_divider.png" media-type="image/png" />
+<item id="c13_San_Tzu_Ching___End_decoration.png_200px_San_Tzu_Ching___End_decoration.png" href="images/c13_San_Tzu_Ching___End_decoration.png_200px_San_Tzu_Ching___End_decoration.png" media-type="image/png" />
+<item id="c14_1a4163f7b866b250a0f7c232d9b4e166f7638469.svg" href="images/c14_1a4163f7b866b250a0f7c232d9b4e166f7638469.svg" media-type="image/svg+xml" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_San_Tzu_Ching" linear="yes" /><itemref idref="c1_San_Tzu_Ching_Preface" linear="yes" /><itemref idref="c2_San_Tzu_Ching_San_Tzu_Ching" linear="yes" /><itemref idref="c2_San_Tzu_Ching_San_Tzu_Ching_2" linear="yes" /><itemref idref="c2_San_Tzu_Ching_San_Tzu_Ching_3" linear="yes" /><itemref idref="c2_San_Tzu_Ching_San_Tzu_Ching_4" linear="yes" /><itemref idref="c3_San_Tzu_Ching_Appendix_1" linear="yes" /><itemref idref="c4_San_Tzu_Ching_Appendix_2" linear="yes" /><itemref idref="c5_San_Tzu_Ching_Appendix_3" linear="yes" /><itemref idref="c6_San_Tzu_Ching_Appendix_4" linear="yes" /><itemref idref="c7_San_Tzu_Ching_Appendix_5" linear="yes" /><itemref idref="c8_San_Tzu_Ching_Appendix_6" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

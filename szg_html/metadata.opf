@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">dff0eab4-52cd-48f4-bd1c-a52590a7c936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">140064a0-ee7b-4785-8283-c9658713dc3d</dc:identifier>
+        <dc:title>San Tzu Ching (三字經）</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Wang Yinglin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">Wikisource</dc:contributor>
+        <dc:date>1900-06-15T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide/>
+</package>

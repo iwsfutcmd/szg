@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://en.wikisource.org/wiki/San_Tzu_Ching" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>San Tzu Ching (三字經）</text></docTitle>
+				<docAuthor><text>Wang Yinglin</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_San_Tzu_Ching" playOrder="2">
+						    <navLabel><text>San Tzu Ching (三字經）</text></navLabel>
+						    <content src="c0_San_Tzu_Ching.xhtml" />
+					    </navPoint><navPoint id="c1_San_Tzu_Ching_Preface" playOrder="3">
+									    <navLabel><text>Preface</text></navLabel>
+									    <content src="c1_San_Tzu_Ching_Preface.xhtml" /></navPoint><navPoint id="c2_San_Tzu_Ching_San_Tzu_Ching" playOrder="4">
+									    <navLabel><text>San Tzu Ching</text></navLabel>
+									    <content src="c2_San_Tzu_Ching_San_Tzu_Ching.xhtml" /></navPoint><navPoint id="c3_San_Tzu_Ching_Appendix_1" playOrder="5">
+									    <navLabel><text>Appendix I</text></navLabel>
+									    <content src="c3_San_Tzu_Ching_Appendix_1.xhtml" /></navPoint><navPoint id="c4_San_Tzu_Ching_Appendix_2" playOrder="6">
+									    <navLabel><text>Appendix II</text></navLabel>
+									    <content src="c4_San_Tzu_Ching_Appendix_2.xhtml" /></navPoint><navPoint id="c5_San_Tzu_Ching_Appendix_3" playOrder="7">
+									    <navLabel><text>Appendix III</text></navLabel>
+									    <content src="c5_San_Tzu_Ching_Appendix_3.xhtml" /></navPoint><navPoint id="c6_San_Tzu_Ching_Appendix_4" playOrder="8">
+									    <navLabel><text>Appendix IV</text></navLabel>
+									    <content src="c6_San_Tzu_Ching_Appendix_4.xhtml" /></navPoint><navPoint id="c7_San_Tzu_Ching_Appendix_5" playOrder="9">
+									    <navLabel><text>Appendix V</text></navLabel>
+									    <content src="c7_San_Tzu_Ching_Appendix_5.xhtml" /></navPoint><navPoint id="c8_San_Tzu_Ching_Appendix_6" playOrder="10">
+									    <navLabel><text>Appendix VI</text></navLabel>
+									    <content src="c8_San_Tzu_Ching_Appendix_6.xhtml" /></navPoint><navPoint id="about" playOrder="11">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>
