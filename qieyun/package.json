@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "qieyun": "^0.12.2",
+    "qieyun-examples": "^20210422.0.0"
+  },
+  "type": "module"
+}
